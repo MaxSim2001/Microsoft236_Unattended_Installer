@@ -1,0 +1,1 @@
+odt.exe /configure configuration.xml
